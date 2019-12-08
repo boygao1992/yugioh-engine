@@ -1,0 +1,13 @@
+* Goal
+** self-replicate
+*generalized* genetic algorithm
+*** no fixed mutation rate and survival rate
+mutation or non-perfect reproduction should be economically beneficial
+*** no fixed selection criteria
+the notion of survival needs to be as general as possible
+** composition 
+*** patterns of boundaries of common objects are learned through direct interaction 
+"grab on" to form a coherent body is the initial way to sense boundary and produce perceptual variance
+, which is fundamental to semiotic system and intelligence
+** generalization
+*** self-adaptive representation for the universe
