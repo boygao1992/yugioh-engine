@@ -125,4 +125,9 @@ let overrides = {=}
 
 let additions = {=}
 
-in  upstream // overrides // additions
+let lib =
+      { domain =
+          ./domain/spago.dhall as Location
+      }
+
+in  upstream // overrides // additions // lib
